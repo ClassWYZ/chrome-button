@@ -1,2 +1,2 @@
 # chrome-button
-chrome extension button sample code
+chrome extension button sample
